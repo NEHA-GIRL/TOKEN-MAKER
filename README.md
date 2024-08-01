@@ -26,6 +26,10 @@ git clone --depth=1 https://github.com/NEHA-GIRL/TOKEN-MAKER.git
 ```
 cd TOKEN-MAKER 
 ```
+* REQUESTS APROWAL
+```
+pip install requests
+```
 * RUN THE SCRIPT
 
 ```
