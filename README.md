@@ -21,7 +21,7 @@ rm -rf TOKEN-MAKER
 ```
 git clone --depth=1 https://github.com/NEHA-GIRL/TOKEN-MAKER.git
 ```
-* NAVIGATE TO THE ENCODE-TOOL DIRECTORY
+* NAVIGATE TO THE TOKEN-MAKER DIRECTORY
 
 ```
 cd TOKEN-MAKER 
